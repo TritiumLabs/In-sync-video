@@ -5,5 +5,5 @@ else if (el.attachEvent)
     el.attachEvent('onclick', openInNewTab);
 
 function openInNewTab() {
-  window.open(https://www.youtube.com/watch?v=D3GOh7FLDbA, '_blank').focus();
+  window.open('https://www.youtube.com/watch?v=D3GOh7FLDbA', '_blank').focus();
 }
