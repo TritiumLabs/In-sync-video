@@ -4,6 +4,6 @@ if (el.addEventListener)
 else if (el.attachEvent)
     el.attachEvent('onclick', openInNewTab);
 
-function openInNewTab(url) {
-  window.open(url, '_blank').focus();
+function openInNewTab() {
+  window.open(https://www.youtube.com/watch?v=D3GOh7FLDbA, '_blank').focus();
 }
